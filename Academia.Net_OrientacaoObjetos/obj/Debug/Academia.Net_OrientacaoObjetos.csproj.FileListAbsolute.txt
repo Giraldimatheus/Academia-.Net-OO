@@ -1,0 +1,8 @@
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\obj\Debug\Academia.Net_OrientacaoObjetos.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\obj\Debug\Academia.Net_OrientacaoObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\obj\Debug\Academia.Net_OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\bin\Debug\Academia.Net_OrientacaoObjetos.exe.config
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\bin\Debug\Academia.Net_OrientacaoObjetos.exe
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\bin\Debug\Academia.Net_OrientacaoObjetos.pdb
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\obj\Debug\Academia.Net_OrientacaoObjetos.exe
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Academia.Net_OrientacaoObjetos\obj\Debug\Academia.Net_OrientacaoObjetos.pdb
