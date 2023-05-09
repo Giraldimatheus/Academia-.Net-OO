@@ -191,39 +191,40 @@ namespace Aula03_Exercicios
             //------------------------------------------------------------------------------------------------------------
             //EXERCICIO 9
 
-            //ContaBancaria conta = new ContaBancaria();
-            //conta.Titular = "Astolfo";
-            //conta.NumeroConta = 123456;
-            //conta.Saldo = 2500.00;
+            ContaBancaria conta = new ContaBancaria();
+            conta.Titular = "Astolfo";
+            conta.NumeroConta = 12345-6;
+            conta.Saldo = 2500.00;
+            conta.Limite = 1000.00;
 
-            //Console.WriteLine("Bem vindo a sua conta Sr: "+conta.Titular+" Número da conta: "+ conta.NumeroConta);
-            //while(true)
-            //{
-            //    Console.WriteLine("Digite 1 para Deposito, 2 para Saque e 3 para Saldo ou 0 para sair");
-            //    int op = int.Parse(Console.ReadLine());
-            //    if (op == 1)
-            //    {
-            //        Console.WriteLine("Qual valor deseja depositar?");
-            //        double valor = double.Parse(Console.ReadLine());
-            //        conta.Depositar(valor);
-            //        Console.WriteLine("Seu novo saldo é de: " + conta.Saldo);
-            //    }
-            //    if (op == 2)
-            //    {
-            //        Console.WriteLine("Qual valor deseja sacar? ");
-            //        double saque = double.Parse(Console.ReadLine());
-            //        conta.Sacar(saque);
-            //        Console.WriteLine("Seu novo saldo é de: " + conta.Saldo);
-            //    }
-            //    if (op == 3)
-            //    {
-            //        Console.WriteLine("Seu saldo é de: " + conta.Saldo);
-            //    }
-            //    if (op == 0)
-            //    {
-            //        break;
-            //    }
-            //}
+            Console.WriteLine("Bem vindo a sua conta Sr: " + conta.Titular + " Número da conta: " + conta.NumeroConta);
+            while (true)
+            {
+                Console.WriteLine("Digite 1 para Deposito, 2 para Saque e 3 para Saldo ou 0 para sair");
+                int op = int.Parse(Console.ReadLine());
+                if (op == 1)
+                {
+                    Console.WriteLine("Qual valor deseja depositar?");
+                    double valor = double.Parse(Console.ReadLine());
+                    conta.Depositar(valor);
+                    Console.WriteLine("Seu novo saldo é de: " + conta.Saldo);
+                }
+                if (op == 2)
+                {
+                    Console.WriteLine("Qual valor deseja sacar? ");
+                    double saque = double.Parse(Console.ReadLine());
+                    conta.Sacar(saque);
+                    Console.WriteLine("Seu novo saldo é de: " + conta.Saldo);
+                }
+                if (op == 3)
+                {
+                    Console.WriteLine("Seu saldo é de: " + conta.Saldo);
+                }
+                if (op == 0)
+                {
+                    break;
+                }
+            }
 
             //------------------------------------------------------------------------------------------------------------
             //EXERCICIO 10
