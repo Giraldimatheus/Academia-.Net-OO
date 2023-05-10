@@ -1,0 +1,8 @@
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\bin\Debug\Aula04_Exercicios.exe.config
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\bin\Debug\Aula04_Exercicios.exe
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\bin\Debug\Aula04_Exercicios.pdb
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\obj\Debug\Aula04_Exercicios.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\obj\Debug\Aula04_Exercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\obj\Debug\Aula04_Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\obj\Debug\Aula04_Exercicios.exe
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula04_Exercicios\obj\Debug\Aula04_Exercicios.pdb
