@@ -1,0 +1,8 @@
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\bin\Debug\Aula05_interfaces.exe.config
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\bin\Debug\Aula05_interfaces.exe
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\bin\Debug\Aula05_interfaces.pdb
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\obj\Debug\Aula05_interfaces.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\obj\Debug\Aula05_interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\obj\Debug\Aula05_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\obj\Debug\Aula05_interfaces.exe
+C:\Users\mhgir\source\repos\Academia.Net_OrientacaoObjetos\Aula05_interfaces\obj\Debug\Aula05_interfaces.pdb
